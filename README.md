@@ -1,6 +1,6 @@
 # Hi there 👋
 
-##I'm Marcio Toledo a Full Stack Designer, Problem Solver, Shopify Expert and Frontend Developer.
+## I'm Marcio Toledo a Full Stack Designer, Problem Solver, Shopify Expert and Frontend Developer.
 
 Co-founder and Digital Strategist at [Toledo Interactive](//toledointeractive.com), Designer and Shopify Expert at [Click2it Australia](//click2it.com.au), currently living in Brazil and working remotely for anywhere.
 
