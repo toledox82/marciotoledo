@@ -10,8 +10,6 @@ Web worker since 2000 😎 and Chief Home Officer since 2013 🙃
 
 You can find me on: [Telegram](//t.me/marciotoledo), [Twitter](//twitter.com/marciotoledo), [LinkedIn](//linkedin.com/in/marciotoledo), +55 (11) 975 711 881 or email me mntoledo@gmail.com!
 
-And I'm sharing some articles that I've been reading [here](//marciotoledo.com/readings).
-
 ____
 
 [![Marcio Toledo's github stats](https://github-readme-stats.vercel.app/api?username=marciotoledo&theme=dark&show_icons=true&count_private=true)](https://github.com/marciotoledo)
@@ -31,3 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Readme idea copied from [Felipe Fialho](https://github.com/felipefialho) and [Mario Souto](https://github.com/omariosouto) 😉
